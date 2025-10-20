@@ -8,7 +8,7 @@ import { DatePipe } from '@angular/common';
   providedIn: 'root'
 })
 export class PostService {
-  api : string = "https://0mdhj4cz-7189.asse.devtunnels.ms/api/posts/";
+  api : string = "http://chrisjhone.runasp.net/api/posts/";
 
 
   constructor( private http : HttpClient, private datePipe : DatePipe) { }

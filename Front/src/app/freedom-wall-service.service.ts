@@ -14,7 +14,7 @@ export class FreedomWallServiceService {
   
   startConnection(): void {
     this.hubConnection = new signalR.HubConnectionBuilder()
-      .withUrl('https://0mdhj4cz-7189.asse.devtunnels.ms/wallUpdates')
+      .withUrl('http://chrisjhone.runasp.net/wallUpdates')
       .withAutomaticReconnect()
       .build();
 
