@@ -1,0 +1,87 @@
+
+
+img {
+    height: 40%;
+    margin-top: 10%;
+}
+
+h1 {
+    font-family: Cooper Black;
+}
+
+.freedom-wall-wrapper {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.wall-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  opacity: 1;
+}
+
+.background-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 40px;
+  color: #000;
+  width: 100%;
+    height: 600px;
+    background: linear-gradient(to bottom, 
+        rgb(238, 95, 238) 0%,   
+        rgb(184, 130, 184) 70%,    
+        rgba(230, 171, 230, 0) 100%   
+    );
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.instruction {
+  position: relative;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.6);
+   margin: -190px auto 20px auto; 
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+}
+
+
+.continue-button-wrapper {
+  text-align: center;
+  margin-top: 20px;
+  z-index: 2;
+  position: relative;
+}
+
+.continue-button {
+  background-color: #6a0dad; 
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-family: sans-serif;
+}
+
+.continue-button:hover {
+  background-color: #580e9b;
+  transform: translateY(-2px);
+}
+
+

@@ -1,0 +1,27 @@
+
+<div *ngIf="!isLoading" class="flex flex-col px-10 mt-5 gap-5">
+    <div *ngFor="let p of postList" class="post p-5 w-full flex flex-col h-auto">
+        <div class="w-full flex justify-between">
+            <div class="flex flex-col leading-tight">
+                <h1 class="text-purple-700 font-bold text-lg m-0">{{p.sender}}</h1>
+                <h2 class="text-sm m-0 text-gray-500">{{formatDate(p.datePosted)}}</h2>
+            </div>
+            <button>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-6">
+                    <path
+                        d="M8 256a56 56 0 1 1 112 0A56 56 0 1 1 8 256zm160 0a56 56 0 1 1 112 0 56 56 0 1 1 -112 0zm216-56a56 56 0 1 1 0 112 56 56 0 1 1 0-112z" />
+                </svg>
+            </button>
+        </div>
+        <div class="mt-3">
+            <p class="break-words">
+                {{p.text}}
+            </p>
+        </div>
+    </div>
+
+</div>
+<div class="w-full flex justify-center flex-col items-center h-full">
+    <p *ngIf="isLoading">Paghuwat kay galoading pa...</p>
+    <div *ngIf="isLoading" class="loader"></div>
+</div>

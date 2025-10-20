@@ -1,0 +1,41 @@
+.create-post {
+	-webkit-animation: s 0.9s ease-in-out infinite both;
+	        animation: s 0.9s ease-in-out infinite both;
+}
+
+@-webkit-keyframes s {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+@keyframes s {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+.post {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 3px;
+}
+
+.create-post, .chat, .home {
+    fill: white;
+}

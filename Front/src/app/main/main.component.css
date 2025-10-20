@@ -1,0 +1,59 @@
+.create-post {
+	-webkit-animation: s 0.9s ease-in-out infinite both;
+	        animation: s 0.9s ease-in-out infinite both;
+}
+
+@-webkit-keyframes s {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+@keyframes s {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+.post {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 3px;
+}
+
+.create-post, .chat, .home {
+    fill: white;
+}
+
+.loader {
+  width: 85px;
+  height: 30px;
+  --g1:conic-gradient(from  90deg at left   3px top   3px,#0000 90deg,#000000 0);
+  --g2:conic-gradient(from -90deg at bottom 3px right 3px,#0000 90deg,#000000 0);
+  background:var(--g1),var(--g1),var(--g1), var(--g2),var(--g2),var(--g2);
+  background-position: left,center,right;
+  background-repeat: no-repeat;
+  animation: l9 1s infinite;
+}
+@keyframes l9 {
+  0%   {background-size:25px 50% ,25px 50% ,25px 50%}
+  25%  {background-size:25px 100%,25px 50% ,25px 50%}
+  50%  {background-size:25px 50% ,25px 100%,25px 50%}
+  75%  {background-size:25px 50% ,25px 50% ,25px 100%}
+  100% {background-size:25px 50% ,25px 50% ,25px 50%}
+}

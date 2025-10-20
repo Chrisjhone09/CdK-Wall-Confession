@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\signalr\\freedomwallpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:signalr\\freedomwallpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\back.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:back.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\dtos\\retrievepostsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:dtos\\retrievepostsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250721074630_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250721074630_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250722101808_hgdhysd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250722101808_hgdhysd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250722101600_asdwadasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250722101600_asdwadasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250722084836_asdwadsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250722084836_asdwadsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250722100316_asdwadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250722100316_asdwadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|c:\\users\\user\\onedrive\\documents\\cdk wall confession\\back\\migrations\\20250722100438_adawdasda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01562500-AB3E-4635-A462-82E6E4E251F1}|Back.csproj|solutionrelative:migrations\\20250722100438_adawdasda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:40:49.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreedomWallPost.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\SignalR\\FreedomWallPost.cs",
+              "RelativeDocumentMoniker": "SignalR\\FreedomWallPost.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\SignalR\\FreedomWallPost.cs",
+              "RelativeToolTip": "SignalR\\FreedomWallPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:04:00.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "DTOs\\PostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:23:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:09:14.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:43:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250722101808_HGDHYSD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722101808_HGDHYSD.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722101808_HGDHYSD.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722101808_HGDHYSD.cs",
+              "RelativeToolTip": "Migrations\\20250722101808_HGDHYSD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:18:08.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250722101600_ASDWADASd.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722101600_ASDWADASd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722101600_ASDWADASd.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722101600_ASDWADASd.cs",
+              "RelativeToolTip": "Migrations\\20250722101600_ASDWADASd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:16:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250722084836_ASDWADsad.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722084836_ASDWADsad.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722084836_ASDWADsad.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722084836_ASDWADsad.cs",
+              "RelativeToolTip": "Migrations\\20250722084836_ASDWADsad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:48:36.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250721074630_First.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250721074630_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250721074630_First.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250721074630_First.cs",
+              "RelativeToolTip": "Migrations\\20250721074630_First.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:46:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "Model\\Post.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Model\\Post.cs",
+              "RelativeToolTip": "Model\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:37:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RetrievePostsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\DTOs\\RetrievePostsDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RetrievePostsDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\DTOs\\RetrievePostsDTO.cs",
+              "RelativeToolTip": "DTOs\\RetrievePostsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:19:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Back",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Back.csproj",
+              "RelativeDocumentMoniker": "Back.csproj",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Back.csproj",
+              "RelativeToolTip": "Back.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T10:43:34.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T07:42:21.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250722100316_ASDWADAs.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722100316_ASDWADAs.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722100316_ASDWADAs.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722100316_ASDWADAs.cs",
+              "RelativeToolTip": "Migrations\\20250722100316_ASDWADAs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:03:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250722100438_ADAWDASDa.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722100438_ADAWDASDa.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722100438_ADAWDASDa.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Migrations\\20250722100438_ADAWDASDa.cs",
+              "RelativeToolTip": "Migrations\\20250722100438_ADAWDASDa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:04:38.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Back.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Back.csproj",
+              "RelativeDocumentMoniker": "Back.csproj",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\CdK Wall Confession\\Back\\Back.csproj",
+              "RelativeToolTip": "Back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T07:36:44.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

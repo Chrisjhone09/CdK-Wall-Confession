@@ -1,0 +1,37 @@
+<div class="w-full flex flex-col">
+    <form (ngSubmit)="uploadPost()">
+        <div class="bg-purple-600 h-15 px-5 flex items-center">
+            <h1 class="font-bold text-lg text-white">💡<i>Leave a thought</i></h1>
+        </div>
+        <div class="p-5 w-full gap-2 flex flex-col">
+            <div class="flex flex-row gap-2">
+                <p class="font-medium text-purple-600 text-xl">Sender: </p>
+                <input type="text"
+                    class="border-b text-xl border-gray-300 placeholder-gray-500 focus:outline-none focus:border-transparent"
+                    placeholder="(Optional)" [(ngModel)]="post.sender" [ngModelOptions]="{standalone: true}">
+
+            </div>
+            <textarea
+                class="w-full h-[300px] max-h-[300px] border border-gray-300 rounded-md p-2 resize-none focus:outline-none focus:ring-2 focus:ring-purple-500 placeholder-gray-500 placeholder-italic"
+                placeholder="Got something to say?" [(ngModel)]="post.text" [ngModelOptions]="{standalone: true}"></textarea>
+
+        </div>
+        <div class="self-end px-5">
+                <button 
+                    [disabled]="isLoading"
+                    [ngClass]="{
+                    'bg-green-600 text-white': !isLoading,
+                    'bg-gray-400 text-gray-200 cursor-not-allowed': isLoading
+                    }"
+                    class="font-medium rounded-md h-10 w-20 transition-colors duration-200"
+                >
+                    Post
+                </button>
+        </div>
+
+    </form>
+    <div class="w-full flex justify-center flex-col items-center">
+        <p *ngIf="isLoading">Loading please wait...</p>
+        <div *ngIf="isLoading" class="loader"></div>
+    </div>
+</div>
