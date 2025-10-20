@@ -14,12 +14,12 @@ export class PostService {
   constructor( private http : HttpClient, private datePipe : DatePipe) { }
 
  uploadPost(post : PostDTO) {
-  return this.http.post<any>(this.api + "upload-post", post, {
+  return this.http.post<any>("/api/upload-post", post, {
   headers: { 'Content-Type': 'application/json' }})
  }
 
  getAllPosts(){
-  return this.http.get<any>(this.api + "get-posts")
+  return this.http.get<any>("/api/posts/get-posts")
  }
 
 }
